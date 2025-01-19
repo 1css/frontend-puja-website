@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer-star-icon{
+  margin-bottom: 3px;
+  margin-right: 4px;
+}
+
+
+.custom-bottom-icon-action{
+  z-index: 50 !important;
+}
